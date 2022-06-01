@@ -101,3 +101,15 @@ console.log(phrases[Math.floor(Math.random() * 5)]);
 - Public Administration and Public Policy: Modern Practices and Transformation. [School of Young Managers of Public Administration SYMPA](https://sympa-by.eu/) & European Humanities University;
 
 ---
+
+### Languages
+
+- Belarusian 100%;
+
+- Russian 100%;
+
+- English 70%;
+
+- Polish 70%.
+
+---
