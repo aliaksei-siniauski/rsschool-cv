@@ -83,3 +83,21 @@ I am a person who is inspired by the civil society ideas of Abraham Lincoln, Mah
 console.log("Should I do my homework?")
 console.log(phrases[Math.floor(Math.random() * 5)]);
 ```
+
+---
+
+### Courses
+
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress);
+
+- Video Course [JavaScript Basics for Beginners](https://www.youtube.com/watch?v=Bluxbh9CaQ0&t=5581s);
+
+- Video Course [The Complete JavaScript Course for Beginners](https://www.youtube.com/watch?v=CxgOKJh4zWE);
+
+- Web-Development on HTML, CSS, JavaScript. [It-академия Stormnet](https://www.it-courses.by/courses/kursy-web-dizajna-verstki-html-i-css/) (Minsk, Belarus);
+
+- Polish language course. [The Polish Institute](https://instytutpolski.pl/minsk/) (Minsk, Belarus);
+
+- Public Administration and Public Policy: Modern Practices and Transformation. [School of Young Managers of Public Administration SYMPA](https://sympa-by.eu/) & European Humanities University;
+
+---
