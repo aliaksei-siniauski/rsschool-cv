@@ -19,3 +19,16 @@ Dashboard: AliakseiSiniauski#0502
 I am a person who is inspired by the civil society ideas of Abraham Lincoln, Mahatma Gandhi, and Barack Obama and believes in the power of such words like equality, justice and freedom. I am always try to be honest with myself, constantly develop and achieve results. At the moment, I am open to obtaining new experience, practical and theoretical knowledge that will help me realize my potential. This is why I want to change my career and become a front-end developer. I am sure that studying in the RS School will be the first step for me to get on the path to success.
 
 ---
+
+### Work experience
+
+- 30.11.2021 - 01.03.2022. Security guard. Seris Konsalent (Warszawa, Poland);
+
+- 01.08.2015 - 02.08.2022. Museologist (researcher).
+  Belarusian State Museum of the History of the Great Patriotic War (Minsk, Belarus);
+
+- 01.09.2016 - 31.05.2017. Teacher. Gymnasium №29 (Minsk, Belarus);
+
+- 08.2013 - 08.2015. Postal operator (Minsk, Belarus).
+
+---
