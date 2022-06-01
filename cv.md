@@ -59,3 +59,13 @@ I am a person who is inspired by the civil society ideas of Abraham Lincoln, Mah
 - Conflict Resolution.
 
 ---
+
+### Hard skills
+
+- HTML, CSS, Java Script (base);
+
+- BEM, SCSS, Grid, Flex;
+
+- Gulp, Webpack, Git, GitHub;
+
+- VS Code, Figma, Photoshop, Avocode.
