@@ -32,3 +32,30 @@ I am a person who is inspired by the civil society ideas of Abraham Lincoln, Mah
 - 08.2013 - 08.2015. Postal operator (Minsk, Belarus).
 
 ---
+
+### Education
+
+- 2015-2016. Masters degree of Historical Studies.
+  Belarusian State University. Minsk (Belarus);
+
+- 2010-2015. Bachelors degree of Historical Studies. Belarusian State University. Minsk (Belarus).
+
+---
+
+### Soft skills
+
+- Communication;
+
+- Self-motivation;
+
+- Responsibility;
+
+- Adaptability;
+
+- Creativity;
+
+- Teamwork;
+
+- Conflict Resolution.
+
+---
