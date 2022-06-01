@@ -69,3 +69,17 @@ I am a person who is inspired by the civil society ideas of Abraham Lincoln, Mah
 - Gulp, Webpack, Git, GitHub;
 
 - VS Code, Figma, Photoshop, Avocode.
+
+---
+
+### Code example
+
+```let phrases = [
+"That sounds good",
+"Yes, you should definitely do that",
+"I'm not sure that's a great idea",
+"Maybe not today?",
+"Computer says no."];
+console.log("Should I do my homework?")
+console.log(phrases[Math.floor(Math.random() * 5)]);
+```
