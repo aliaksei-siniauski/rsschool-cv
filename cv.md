@@ -113,3 +113,19 @@ console.log(phrases[Math.floor(Math.random() * 5)]);
 - Polish 70%.
 
 ---
+
+### Hobby
+
+- Football, basketball, volleyball, cycling, aikido, chess;
+
+- History, Political Science, International Relations;
+
+- Trips;
+
+- Landscape photography;
+
+- Playing guitar;
+
+- Learning foreign languages;
+
+- Cooking.
